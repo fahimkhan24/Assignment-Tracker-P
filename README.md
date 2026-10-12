@@ -119,4 +119,5 @@ Every change starts from a GitHub issue. Branch, commit and pull request rules a
 - **`fastapi` not found:** activate the virtual environment first.
 - **`Request failed: 500` in the app:** the backend isn't running.
 - **App at localhost:8000 shows an old version:** delete `frontend/dist`.
-- **Vercel build fails:** check **Build Logs** in the Vercel dashboard, and make sure `npm run build` works in `frontend/`.
+- **Vercel build fails:** check **Build Logs** in the Vercel dashboard, and make sure `npm run build` works in `frontend/`.git add README.md
+
